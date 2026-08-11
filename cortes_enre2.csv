@@ -135743,3 +135743,46 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.8654,-58.4009,21,baja,Edesur,Almirante Brown,Longchamps,,,5,,2026-08-11,09:57:11
 -34.7554,-58.2562,21,baja,Edesur,Quilmes,Ezpeleta,,,2,,2026-08-11,09:57:11
 -34.6352,-58.4144,21,baja,Edesur,Capital,Boedo,,,3,,2026-08-11,09:57:11
+-34.966812980,-58.683586396,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,N:271-1-13/271-1-13,1,Sin Datos,2026-08-11,11:41:06
+-34.933530939,-58.721795134,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,N:271-1-13/271-1-13,7,2026-08-11 08:47,2026-08-11,11:41:06
+-34.931525148,-58.721606921,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,N:271-1-13/271-1-13,41,2026-08-11 08:47,2026-08-11,11:41:06
+-34.936941482,-58.722675970,11,media,Edesur,Cañuelas,Zona Rural 1,Canuelas,N:271-1-13/271-1-13,2,2026-08-11 08:47,2026-08-11,11:41:06
+-34.929853398,-58.715070636,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,N:271-1-13/271-1-13,6,2026-08-11 08:47,2026-08-11,11:41:06
+-34.928148831,-58.717326590,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,N:271-1-13/271-1-13,8,2026-08-11 08:47,2026-08-11,11:41:06
+-34.928166925,-58.721276176,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,N:271-1-13/271-1-13,34,2026-08-11 08:47,2026-08-11,11:41:06
+-34.966812980,-58.683586396,11,media,Edesur,Cañuelas,Zona Rural 2,Canuelas,N:271-1-13/271-1-13,1,2026-08-11 08:47,2026-08-11,11:41:06
+-34.926677433,-58.705552926,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,N:271-1-13/271-1-13,47,2026-08-11 08:47,2026-08-11,11:41:06
+-34.923074692,-58.710989922,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,N:271-1-13/271-1-13,9,2026-08-11 08:47,2026-08-11,11:41:06
+-34.924014576,-58.710215835,11,media,Edesur,Cañuelas,Santa Anita,Canuelas,N:271-1-13/271-1-13,1,2026-08-11 08:47,2026-08-11,11:41:06
+-34.574041619,-58.462165559,12,media,Edenor,Capital Federal,Belgrano,S/D,R:Vidal/114-Tr2/114-5535,240,2026-08-11 14:00,2026-08-11,11:41:06
+-34.484610639,-58.678360810,12,media,Edenor,Malvinas Argentinas,Villa De Mayo,S/D,R:Talar/58-Tr4/58-5542,36,2026-08-11 15:00,2026-08-11,11:41:06
+-34.483436164,-58.679355911,12,media,Edenor,Malvinas Argentinas,Villa De Mayo,S/D,R:Talar/58-Tr4/58-5542,26,2026-08-11 15:00,2026-08-11,11:41:06
+-34.484363041,-58.681097203,12,media,Edenor,Malvinas Argentinas,Villa De Mayo,S/D,R:Talar/58-Tr4/58-5542,6,2026-08-11 15:00,2026-08-11,11:41:06
+-34.456200805,-58.788642303,12,media,Edenor,Pilar,Del Viso,S/D,R:Del Viso/251-Tr1/251-5546,152,Sin Datos,2026-08-11,11:41:06
+-34.458415679,-58.786912520,12,media,Edenor,Pilar,Del Viso,S/D,R:Del Viso/251-Tr1/251-5546,160,2026-08-11 12:00,2026-08-11,11:41:06
+-34.429237808,-58.581972637,12,media,Edenor,Tigre,Ciudad De Tigre,S/D,R:Tigre/153-Tr1/153-5516,132,Sin Datos,2026-08-11,11:41:06
+-34.7071,-58.3933,21,baja,Edesur,Lanus,Lanus,,,5,,2026-08-11,11:41:06
+-34.9005,-58.3698,21,baja,Edesur,Pte Peron,Los Pinos,,,10,,2026-08-11,11:41:06
+-34.7864,-58.1668,21,baja,Edesur,Berazategui,Platanos,,,37,,2026-08-11,11:41:06
+-34.6313,-58.4578,21,baja,Edesur,Capital,Flores,,,4,,2026-08-11,11:41:06
+-34.6728,-58.3981,21,baja,Edesur,Lanus,Valentin Alsina,,,13,,2026-08-11,11:41:06
+-34.6252,-58.4444,21,baja,Edesur,Capital,Caballito,,,17,,2026-08-11,11:41:06
+-34.768,-58.3113,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,8,,2026-08-11,11:41:06
+-34.7243,-58.4655,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,9,,2026-08-11,11:41:06
+-34.7146,-58.4606,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,32,,2026-08-11,11:41:06
+-34.6966,-58.4394,21,baja,Edesur,Lanus,Lanus,,,2,,2026-08-11,11:41:06
+-34.8814,-58.1652,21,baja,Edesur,Berazategui,El Pato,,,2,,2026-08-11,11:41:06
+-34.7773,-58.2819,21,baja,Edesur,Florencio Varela,Florencio Varela,,,15,,2026-08-11,11:41:06
+-34.6336,-58.415,21,baja,Edesur,Capital,Boedo,,,2,,2026-08-11,11:41:06
+-34.7191,-58.4191,21,baja,Edesur,Lanus,Remedios De Escalada,,,16,,2026-08-11,11:41:06
+-34.7799,-58.2965,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,31,,2026-08-11,11:41:06
+-34.6716,-58.3584,21,baja,Edesur,Avellaneda,Avellaneda,,,4,,2026-08-11,11:41:06
+-34.7431,-58.4364,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,11,,2026-08-11,11:41:06
+-34.7657,-58.2027,21,baja,Edesur,Berazategui,Berazategui,,,9,,2026-08-11,11:41:06
+-34.8654,-58.4009,21,baja,Edesur,Almirante Brown,Longchamps,,,10,,2026-08-11,11:41:06
+-34.7554,-58.2562,21,baja,Edesur,Quilmes,Ezpeleta,,,3,,2026-08-11,11:41:06
+-34.6352,-58.4144,21,baja,Edesur,Capital,Boedo,,,4,,2026-08-11,11:41:06
+-34.7022,-58.4279,21,baja,Edesur,Lanus,Lanus,,,4,,2026-08-11,11:41:06
+-34.8985,-58.5174,21,baja,Edesur,Ezeiza,Canning,,,2,,2026-08-11,11:41:06
+-34.6604,-58.5036,21,baja,Edesur,Capital,Mataderos,,,1,,2026-08-11,11:41:06
+-34.7658,-58.1847,21,baja,Edesur,Berazategui,Berazategui,,,11,,2026-08-11,11:41:06
