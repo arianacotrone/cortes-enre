@@ -139013,3 +139013,33 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6746,-58.4744,21,baja,Edesur,Capital,Villa Lugano,,,2,,2026-08-16,13:27:35
 -34.8209,-58.4876,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,4,,2026-08-16,13:27:35
 -34.7447,-58.3565,21,baja,Edesur,Lomas De Zamora,Banfield,,,6,,2026-08-16,13:27:35
+-34.724463634,-58.250142538,11,media,Edesur,Quilmes,Quilmes Este,Sobral,R:175-2-28/175-2-28,12,2026-08-16 17:34,2026-08-16,15:17:32
+-34.869820128,-58.379439230,11,media,Edesur,Almirante Brown,Longchamps,Glew,R:277-1-16/277-1-16,674,2026-08-16 16:00,2026-08-16,15:17:32
+-34.877539002,-58.379721082,11,media,Edesur,Almirante Brown,Glew,Glew,R:277-1-16/277-1-16,10,2026-08-16 16:00,2026-08-16,15:17:32
+-34.874938981,-58.380005974,11,media,Edesur,Almirante Brown,Glew,Glew,R:277-1-16/277-1-16,374,2026-08-16 16:00,2026-08-16,15:17:32
+-34.872248087,-58.378603883,11,media,Edesur,Almirante Brown,Longchamps,Glew,R:277-1-16/277-1-16,353,2026-08-16 16:00,2026-08-16,15:17:32
+-34.586032179,-58.388321724,11,media,Edesur,Capital Rp,Recoleta,Parana,R:117-2-24/117-2-24,202,2026-08-16 14:55,2026-08-16,15:17:32
+-34.860210638,-58.395884240,11,media,Edesur,Almirante Brown,Longchamps,Glew,R:277-3-33/277-3-33,589,2026-08-16 15:35,2026-08-16,15:17:32
+-34.857334064,-58.397981185,11,media,Edesur,Almirante Brown,Longchamps,Glew,R:277-3-33/277-3-33,294,2026-08-16 15:35,2026-08-16,15:17:32
+-34.850740571,-58.401029232,11,media,Edesur,Almirante Brown,Longchamps,Glew,R:277-3-33/277-3-33,365,2026-08-16 15:35,2026-08-16,15:17:32
+-34.550794403,-58.556264310,12,media,Edenor,Gral San Martin,Villa Ballester,S/D,R:J. L. Suarez/266-Tr1/266-5545,393,2026-08-16 15:30,2026-08-16,15:17:32
+-34.854263154,-58.674554791,12,media,Edenor,La Matanza,Virrey Del Pino,S/D,R:Oro Verde/356-Tr2/356-5537,237,Sin Datos,2026-08-16,15:17:32
+-34.640971413,-58.738416693,12,media,Edenor,Moreno,Paso Del Rey,S/D,R:Catonas/256-Tr2/256-5522,361,2026-08-16 14:00,2026-08-16,15:17:32
+-34.636876708,-58.875989732,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr1/263-5515,210,2026-08-16 13:00,2026-08-16,15:17:32
+-34.635536119,-58.873934426,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr1/263-5515,111,2026-08-16 13:00,2026-08-16,15:17:32
+-34.331478109,-58.653480303,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,16,Sin Datos,2026-08-16,15:17:32
+-34.318466248,-58.649647619,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,27,Sin Datos,2026-08-16,15:17:32
+-34.307268978,-58.644044069,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,13,Sin Datos,2026-08-16,15:17:32
+-34.299668872,-58.641179720,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,10,Sin Datos,2026-08-16,15:17:32
+-34.298163978,-58.644139960,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,34,Sin Datos,2026-08-16,15:17:32
+-34.326388546,-58.654924181,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,17,Sin Datos,2026-08-16,15:17:32
+-34.307862448,-58.647048181,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Nordelta/156-Tr1/156-5515,3,Sin Datos,2026-08-16,15:17:32
+-34.677281713,-58.598654985,12,media,Edenor,La Matanza,Villa Luzuriaga,S/D,R:V. Luzuriaga/64-Tr1/64-5515,64,2026-08-16 14:00,2026-08-16,15:17:32
+-34.9688,-58.377,21,baja,Edesur,San Vicente,Alejandro Korn,,,7,,2026-08-16,15:17:32
+-34.6175,-58.438,21,baja,Edesur,Capital,Caballito,,,6,,2026-08-16,15:17:32
+-34.6551,-58.5142,21,baja,Edesur,Capital,Mataderos,,,4,,2026-08-16,15:17:32
+-34.6144,-58.492,21,baja,Edesur,Capital,Villa Sta. Rita,,,10,,2026-08-16,15:17:32
+-34.6718,-58.3901,21,baja,Edesur,Avellaneda,Piñeyro,,,11,,2026-08-16,15:17:32
+-34.723,-58.3238,21,baja,Edesur,Quilmes,Bernal,,,9,,2026-08-16,15:17:32
+-34.7773,-58.1335,21,baja,Edesur,Berazategui,Hudson,,,26,,2026-08-16,15:17:32
+-34.862,-58.4013,21,baja,Edesur,Almirante Brown,Longchamps,,,7,,2026-08-16,15:17:32
