@@ -145941,3 +145941,55 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.829,-58.1984,21,baja,Edesur,Florencio Varela,Florencio Varela,,,10,,2026-08-28,14:51:21
 -34.7571,-58.2647,21,baja,Edesur,Quilmes,Ezpeleta,,,14,,2026-08-28,14:51:21
 -34.7016,-58.4263,21,baja,Edesur,Lanus,Lanus,,,91,,2026-08-28,14:51:21
+-34.619332838,-58.404945314,11,media,Edesur,Capital Rp,San Cristobal,Independencia,R:020-4-42/020-4-42,236,Sin Datos,2026-08-28,23:50:19
+-34.619576453,-58.406074425,11,media,Edesur,Capital Rp,San Cristobal,Independencia,R:020-4-42/020-4-42,240,Sin Datos,2026-08-28,23:50:19
+-34.720614616,-58.321368671,11,media,Edesur,Quilmes,Bernal,Sarandi,R:172-3-35/172-3-35,530,Sin Datos,2026-08-28,23:50:19
+-34.721744487,-58.322753266,11,media,Edesur,Quilmes,Bernal,Sarandi,R:172-3-35/172-3-35,309,Sin Datos,2026-08-28,23:50:19
+-34.737793909,-58.489642858,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-4-42/281-4-42,45,Sin Datos,2026-08-28,23:50:19
+-34.735389681,-58.491379246,11,media,Edesur,Lomas De Zamora,Ingeniero Budge,Transradio,R:281-4-42/281-4-42,9,Sin Datos,2026-08-28,23:50:19
+-34.735031295,-58.488848155,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-4-42/281-4-42,240,Sin Datos,2026-08-28,23:50:19
+-34.735983371,-58.488998400,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-4-42/281-4-42,5,Sin Datos,2026-08-28,23:50:19
+-34.669217898,-58.401204876,11,media,Edesur,Lanus,Valentin Alsina,Gerli,R:186-4-46/186-4-46,312,Sin Datos,2026-08-28,23:50:19
+-34.750802400,-58.438119229,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Transradio,R:281-3-33/281-3-33,126,Sin Datos,2026-08-28,23:50:19
+-34.749815644,-58.436241381,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Transradio,R:281-3-33/281-3-33,245,Sin Datos,2026-08-28,23:50:19
+-34.751506919,-58.436308530,11,media,Edesur,Lomas De Zamora,Lomas De Zamora,Transradio,R:281-3-33/281-3-33,31,Sin Datos,2026-08-28,23:50:19
+-34.741308381,-58.447247287,11,media,Edesur,Lomas De Zamora,Ingeniero Budge,Transradio,R:281-1-13/281-1-13,471,2026-08-28 23:59,2026-08-28,23:50:19
+-34.744415596,-58.445659686,11,media,Edesur,Lomas De Zamora,Zona Rural,Transradio,R:281-1-13/281-1-13,131,2026-08-28 23:59,2026-08-28,23:50:19
+-34.724637172,-58.345898211,11,media,Edesur,Lanus,Monte Chingolo,Escalada,R:087-4-45/087-4-45,536,2026-08-29 04:13,2026-08-28,23:50:19
+-34.571694712,-58.440048520,12,media,Edenor,Capital Federal,Palermo,S/D,R:Newbery/235-Tr4/235-5517,76,2026-08-28 22:30,2026-08-28,23:50:19
+-34.885203712,-58.954216671,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,2,2026-08-28 21:00,2026-08-28,23:50:19
+-34.633250581,-58.846709870,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr2/263-5522,53,2026-08-29 00:00,2026-08-28,23:50:19
+-34.629611802,-58.846587792,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr2/263-5522,30,2026-08-29 00:00,2026-08-28,23:50:19
+-34.627627069,-58.867872893,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr2/263-5522,276,2026-08-29 00:00,2026-08-28,23:50:19
+-34.626851530,-58.870045948,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr2/263-5522,51,2026-08-29 00:00,2026-08-28,23:50:19
+-34.627881523,-58.870568035,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr2/263-5522,55,2026-08-29 00:00,2026-08-28,23:50:19
+-34.628658928,-58.875765597,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr2/263-5522,39,2026-08-29 00:00,2026-08-28,23:50:19
+-34.628130478,-58.877379175,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr2/263-5522,1,2026-08-29 00:00,2026-08-28,23:50:19
+-34.635346582,-58.850435316,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr2/263-5522,90,2026-08-29 00:00,2026-08-28,23:50:19
+-34.627771464,-58.878768554,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr2/263-5522,181,2026-08-29 00:00,2026-08-28,23:50:19
+-34.633348942,-58.848141515,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr2/263-5522,110,2026-08-29 00:00,2026-08-28,23:50:19
+-34.628519912,-58.850062698,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr2/263-5522,156,2026-08-29 00:00,2026-08-28,23:50:19
+-34.624820949,-58.845453835,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr2/263-5522,146,2026-08-29 00:00,2026-08-28,23:50:19
+-34.632900598,-58.856519311,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr2/263-5522,165,2026-08-29 00:00,2026-08-28,23:50:19
+-34.628066964,-58.868588192,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr2/263-5522,83,2026-08-29 00:00,2026-08-28,23:50:19
+-34.626969426,-58.852653423,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr2/263-5522,116,2026-08-29 00:00,2026-08-28,23:50:19
+-34.624703005,-58.892055230,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr2/263-5522,68,2026-08-29 00:00,2026-08-28,23:50:19
+-34.626608414,-58.883988906,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Gaona/263-Tr2/263-5522,165,2026-08-29 00:00,2026-08-28,23:50:19
+-34.4726,-58.7887,22,baja,Edenor,Pilar,Del Viso,,,4,,2026-08-28,23:50:19
+-34.4986,-58.8287,22,baja,Edenor,Pilar,Pte Derqui,,,25,,2026-08-28,23:50:19
+-34.7175,-58.3027,21,baja,Edesur,Quilmes,Bernal,,,24,,2026-08-28,23:50:19
+-34.7195,-58.4442,21,baja,Edesur,Lomas De Zamora,Villa Fiorito,,,21,,2026-08-28,23:50:19
+-34.8248,-58.2391,21,baja,Edesur,Florencio Varela,Bosques,,,13,,2026-08-28,23:50:19
+-34.7571,-58.2647,21,baja,Edesur,Quilmes,Ezpeleta,,,21,,2026-08-28,23:50:19
+-34.8573,-58.5429,21,baja,Edesur,Ezeiza,Barrio La Union,,,75,,2026-08-28,23:50:19
+-34.9825,-58.3684,21,baja,Edesur,San Vicente,Alejandro Korn,,,37,,2026-08-28,23:50:19
+-34.6191,-58.4047,21,baja,Edesur,Capital,San Cristobal,,,7,,2026-08-28,23:50:19
+-34.7564,-58.4391,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,5,,2026-08-28,23:50:19
+-34.763,-58.4025,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,13,,2026-08-28,23:50:19
+-34.6248,-58.4972,21,baja,Edesur,Capital,Capital,,,12,,2026-08-28,23:50:19
+-35.0351,-58.7392,21,baja,Edesur,Cañuelas,Cañuelas,,,15,,2026-08-28,23:50:19
+-34.8703,-58.3681,21,baja,Edesur,Almirante Brown,Glew,,,14,,2026-08-28,23:50:19
+-34.9839,-58.3755,21,baja,Edesur,San Vicente,Alejandro Korn,,,5,,2026-08-28,23:50:19
+-34.7078,-58.428,21,baja,Edesur,Lanus,Lanus,,,1,,2026-08-28,23:50:19
+-34.7178,-58.4438,21,baja,Edesur,Lomas De Zamora,Villa Fiorito,,,7,,2026-08-28,23:50:19
+-34.7257,-58.4721,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,1,,2026-08-28,23:50:19
