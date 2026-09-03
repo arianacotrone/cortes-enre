@@ -147068,3 +147068,34 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7588,-58.4226,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,43,,2026-09-03,01:00:04
 -34.6395,-58.3998,21,baja,Edesur,Capital,Parque Patricios,,,45,,2026-09-03,01:00:04
 -34.7335,-58.4543,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,1,,2026-09-03,01:00:04
+-34.806971392,-58.460196329,11,media,Edesur,Esteban Echeverria,Monte Grande,Transradio,R:281-2-28/281-2-28,461,2026-09-03 05:11,2026-09-03,05:38:34
+-34.803365028,-58.460476438,11,media,Edesur,Esteban Echeverria,Luis Guillon,Transradio,R:281-2-28/281-2-28,342,2026-09-03 05:11,2026-09-03,05:38:34
+-34.869344422,-58.275913887,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:286-5-56/286-5-56,221,2026-09-03 08:38,2026-09-03,05:38:34
+-34.863170067,-58.277151475,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:286-5-56/286-5-56,189,2026-09-03 08:38,2026-09-03,05:38:34
+-34.857408746,-58.278124114,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:286-5-56/286-5-56,3,2026-09-03 08:38,2026-09-03,05:38:34
+-34.855568509,-58.278452086,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:286-5-56/286-5-56,16,2026-09-03 08:38,2026-09-03,05:38:34
+-34.860540118,-58.277688779,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:286-5-56/286-5-56,17,2026-09-03 08:38,2026-09-03,05:38:34
+-34.865313261,-58.271419960,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:286-5-56/286-5-56,1,2026-09-03 08:38,2026-09-03,05:38:34
+-34.870803880,-58.281311256,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:286-5-56/286-5-56,326,2026-09-03 08:38,2026-09-03,05:38:34
+-34.868450343,-58.271864613,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:286-5-56/286-5-56,379,2026-09-03 08:38,2026-09-03,05:38:34
+-34.862781649,-58.273455855,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:286-5-56/286-5-56,4,2026-09-03 08:38,2026-09-03,05:38:34
+-34.869041847,-58.277908801,11,media,Edesur,Florencio Varela,Florencio Varela,S/D,R:286-5-56/286-5-56,34,2026-09-03 08:38,2026-09-03,05:38:34
+-34.760463849,-58.372006151,11,media,Edesur,Lomas De Zamora,Temperley,Temperley,R:084-1-18/084-1-18,95,2026-09-03 06:15,2026-09-03,05:38:34
+-34.759913171,-58.367671061,11,media,Edesur,Lomas De Zamora,Temperley,Temperley,R:084-1-18/084-1-18,361,2026-09-03 06:15,2026-09-03,05:38:34
+-34.696888754,-58.678221893,12,media,Edenor,Merlo,Libertad,S/D,R:Pontevedra/261-Tr1/261-5513,357,2026-09-03 04:00,2026-09-03,05:38:34
+-34.700254522,-58.682525329,12,media,Edenor,Merlo,Libertad,S/D,R:Pontevedra/261-Tr1/261-5513,323,2026-09-03 04:00,2026-09-03,05:38:34
+-34.480059927,-58.626177436,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Bancalari/157-Tr1/157-5548,1,Sin Datos,2026-09-03,05:38:34
+-34.484949180,-58.622420719,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Bancalari/157-Tr1/157-5548,77,Sin Datos,2026-09-03,05:38:34
+-34.483267006,-58.625842205,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Bancalari/157-Tr1/157-5548,2,Sin Datos,2026-09-03,05:38:34
+-34.484593233,-58.627406883,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Bancalari/157-Tr1/157-5548,38,Sin Datos,2026-09-03,05:38:34
+-34.482180449,-58.630256865,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Bancalari/157-Tr1/157-5548,100,Sin Datos,2026-09-03,05:38:34
+-34.482812866,-58.628549623,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Bancalari/157-Tr1/157-5548,89,Sin Datos,2026-09-03,05:38:34
+-34.482054309,-58.623897233,12,media,Edenor,Tigre,Don Torcuato,S/D,R:Bancalari/157-Tr1/157-5548,245,Sin Datos,2026-09-03,05:38:34
+-34.687476148,-58.563048943,12,media,Edenor,La Matanza,San Justo,S/D,R:Casanova/63-Tr2/63-5521,185,2026-09-03 06:00,2026-09-03,05:38:34
+-34.9094,-58.5807,21,baja,Edesur,Ezeiza,Tristan Suarez,,,14,,2026-09-03,05:38:34
+-34.7588,-58.4226,21,baja,Edesur,Lomas De Zamora,Lomas De Zamora,,,66,,2026-09-03,05:38:34
+-34.5982,-58.4991,21,baja,Edesur,Capital,Villa Del Parque,,,6,,2026-09-03,05:38:34
+-34.6443,-58.3687,21,baja,Edesur,Capital,La Boca,,,1,,2026-09-03,05:38:34
+-34.6304,-58.4717,21,baja,Edesur,Capital,Flores,,,13,,2026-09-03,05:38:34
+-34.7884,-58.3236,21,baja,Edesur,Almirante Brown,San Francisco Solano,,,1,,2026-09-03,05:38:34
+-34.6476,-58.372,21,baja,Edesur,Capital,Barracas,,,5,,2026-09-03,05:38:34
