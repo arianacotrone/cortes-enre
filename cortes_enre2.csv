@@ -148231,3 +148231,86 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.8738,-58.5268,21,baja,Edesur,Ezeiza,Barrio La Union,,,6,,2026-09-06,11:29:38
 -34.8263,-58.2346,21,baja,Edesur,Florencio Varela,Bosques,,,8,,2026-09-06,11:29:38
 -34.7422,-58.436,21,baja,Edesur,Lomas De Zamora,Ingeniero Budge,,,10,,2026-09-06,11:29:38
+-34.593034882,-58.388163246,11,media,Edesur,Capital Rp,Recoleta,Parana,R:117-2-25/117-2-25,494,Sin Datos,2026-09-06,15:57:57
+-34.690636547,-58.351335362,11,media,Edesur,Avellaneda,Sarandi,Sarandi,R:172-4-44/172-4-44,1,2026-09-06 17:16,2026-09-06,15:57:57
+-34.778301869,-58.344981286,11,media,Edesur,Almirante Brown,Rafael Calzada,Rafael Calzada,R:189-2-22/189-2-22,53,2026-09-06 18:00,2026-09-06,15:57:57
+-34.776657066,-58.345033364,11,media,Edesur,Almirante Brown,Rafael Calzada,Rafael Calzada,R:189-2-22/189-2-22,444,2026-09-06 18:00,2026-09-06,15:57:57
+-34.883742759,-58.361786002,11,media,Edesur,Almirante Brown,Glew,Glew,R:277-4-43/277-4-43,317,2026-09-06 14:45,2026-09-06,15:57:57
+-34.884827191,-58.363959335,11,media,Edesur,Almirante Brown,Glew,Glew,R:277-4-43/277-4-43,220,2026-09-06 14:45,2026-09-06,15:57:57
+-34.782782134,-58.640284080,12,media,Edenor,La Matanza,Gonzalez Catan,S/D,R:Gonzalez Catan/168-Tr1/168-5513,230,2026-09-06 13:35,2026-09-06,15:57:57
+-34.717649238,-58.708572772,12,media,Edenor,Merlo,Pontevedra,S/D,R:Pontevedra/261-Tr1/261-5517,1,2026-09-06 15:00,2026-09-06,15:57:57
+-34.717599052,-58.701739678,12,media,Edenor,Merlo,Libertad,S/D,R:Pontevedra/261-Tr1/261-5517,384,2026-09-06 15:00,2026-09-06,15:57:57
+-34.433609660,-58.688325094,12,media,Edenor,Tigre,Benavidez,S/D,R:Benavidez/59-Tr2/59-5537,29,2026-09-06 15:00,2026-09-06,15:57:57
+-34.442529051,-58.662088048,12,media,Edenor,Tigre,General Pacheco,S/D,R:Benavidez/59-Tr2/59-5537,218,2026-09-06 15:00,2026-09-06,15:57:57
+-34.445196584,-58.662993226,12,media,Edenor,Tigre,General Pacheco,S/D,R:Benavidez/59-Tr2/59-5537,344,2026-09-06 15:00,2026-09-06,15:57:57
+-34.616869470,-58.749290243,12,media,Edenor,Moreno,Trujui,S/D,R:Ituzaingo/264-Tr1,213,Sin Datos,2026-09-06,15:57:57
+-34.618018983,-58.746597369,12,media,Edenor,Moreno,Paso Del Rey,S/D,R:Ituzaingo/264-Tr1,111,Sin Datos,2026-09-06,15:57:57
+-34.619239149,-58.745160882,12,media,Edenor,Moreno,Paso Del Rey,S/D,R:Ituzaingo/264-Tr1,51,Sin Datos,2026-09-06,15:57:57
+-34.291534910,-58.727792678,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5482/253-5521,1,Sin Datos,2026-09-06,15:57:57
+-34.277698029,-58.723345617,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5482/253-5521,1,Sin Datos,2026-09-06,15:57:57
+-34.285189021,-58.724717157,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5482/253-5521,1,Sin Datos,2026-09-06,15:57:57
+-34.275905647,-58.723477777,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5482/253-5521,1,Sin Datos,2026-09-06,15:57:57
+-34.273372968,-58.723459744,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5521,1,Sin Datos,2026-09-06,15:57:57
+-34.297964299,-58.731434006,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5482/253-5521,1,Sin Datos,2026-09-06,15:57:57
+-34.250775739,-58.733096239,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,57,Sin Datos,2026-09-06,15:57:57
+-34.251928550,-58.728962297,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,1,Sin Datos,2026-09-06,15:57:57
+-34.251886723,-58.722667387,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,7,Sin Datos,2026-09-06,15:57:57
+-34.252805754,-58.719551563,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,10,Sin Datos,2026-09-06,15:57:57
+-34.249106430,-58.745907316,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,21,Sin Datos,2026-09-06,15:57:57
+-34.252444687,-58.747178695,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,30,Sin Datos,2026-09-06,15:57:57
+-34.255026920,-58.748188168,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,18,Sin Datos,2026-09-06,15:57:57
+-34.255961835,-58.751606191,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,22,Sin Datos,2026-09-06,15:57:57
+-34.252454824,-58.752296523,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,44,Sin Datos,2026-09-06,15:57:57
+-34.249910309,-58.751335846,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,51,Sin Datos,2026-09-06,15:57:57
+-34.245765531,-58.751234918,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,14,Sin Datos,2026-09-06,15:57:57
+-34.249843083,-58.738607674,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,9,Sin Datos,2026-09-06,15:57:57
+-34.233560767,-58.796701050,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,1,Sin Datos,2026-09-06,15:57:57
+-34.235526966,-58.792870242,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,4,Sin Datos,2026-09-06,15:57:57
+-34.238961887,-58.784835650,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,4,Sin Datos,2026-09-06,15:57:57
+-34.240415531,-58.781482530,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,1,Sin Datos,2026-09-06,15:57:57
+-34.247456964,-58.743514599,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,1,Sin Datos,2026-09-06,15:57:57
+-34.247157745,-58.744737362,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,4,Sin Datos,2026-09-06,15:57:57
+-34.254715257,-58.755974922,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,1,Sin Datos,2026-09-06,15:57:57
+-34.269400322,-58.723538916,12,media,Edenor,Escobar,Escobar,S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,1,Sin Datos,2026-09-06,15:57:57
+-34.241526066,-58.777742600,12,media,Edenor,Escobar,Delta 1Ra Seccion (Es),S/D,R:Maschwitz/154-Tr4/154-5481/951-5512,1,Sin Datos,2026-09-06,15:57:57
+-34.455036873,-58.794489306,12,media,Edenor,Pilar,Del Viso,S/D,R:Del Viso/251-Tr2/251-5537,207,Sin Datos,2026-09-06,15:57:57
+-34.454639479,-58.799352978,12,media,Edenor,Pilar,Del Viso,S/D,R:Del Viso/251-Tr2/251-5537,32,Sin Datos,2026-09-06,15:57:57
+-34.460415143,-58.790303789,12,media,Edenor,Pilar,Del Viso,S/D,R:Del Viso/251-Tr2/251-5537,184,Sin Datos,2026-09-06,15:57:57
+-34.452757989,-58.798124962,12,media,Edenor,Pilar,Del Viso,S/D,R:Del Viso/251-Tr2/251-5537,171,Sin Datos,2026-09-06,15:57:57
+-34.452518099,-58.796382954,12,media,Edenor,Pilar,Del Viso,S/D,R:Del Viso/251-Tr2/251-5537,248,Sin Datos,2026-09-06,15:57:57
+-34.454745217,-58.796481731,12,media,Edenor,Pilar,Del Viso,S/D,R:Del Viso/251-Tr2/251-5537,130,Sin Datos,2026-09-06,15:57:57
+-34.451699286,-58.797355142,12,media,Edenor,Pilar,Del Viso,S/D,R:Del Viso/251-Tr2/251-5537,101,Sin Datos,2026-09-06,15:57:57
+-34.454180945,-58.799125454,12,media,Edenor,Pilar,Del Viso,S/D,R:Del Viso/251-Tr2/251-5537,157,Sin Datos,2026-09-06,15:57:57
+-34.456473345,-58.793293529,12,media,Edenor,Pilar,Del Viso,S/D,R:Del Viso/251-Tr2/251-5537,258,Sin Datos,2026-09-06,15:57:57
+-34.516005428,-58.778479931,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:Jose C. Paz/254-Tr2/254-5525,276,2026-09-06 16:00,2026-09-06,15:57:57
+-34.521355486,-58.779990078,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:Jose C. Paz/254-Tr2/254-5525,55,2026-09-06 16:00,2026-09-06,15:57:57
+-34.520252637,-58.785297659,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:Jose C. Paz/254-Tr2/254-5525,139,2026-09-06 16:00,2026-09-06,15:57:57
+-34.519181500,-58.786298384,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:Jose C. Paz/254-Tr2/254-5525,10,2026-09-06 16:00,2026-09-06,15:57:57
+-34.520910360,-58.782313207,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:Jose C. Paz/254-Tr2/254-5525,275,2026-09-06 16:00,2026-09-06,15:57:57
+-34.520301072,-58.780879071,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:Jose C. Paz/254-Tr2/254-5525,128,2026-09-06 16:00,2026-09-06,15:57:57
+-34.523404949,-58.782931926,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:Jose C. Paz/254-Tr2/254-5525,128,2026-09-06 16:00,2026-09-06,15:57:57
+-34.519818759,-58.784676396,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:Jose C. Paz/254-Tr2/254-5525,1,2026-09-06 16:00,2026-09-06,15:57:57
+-34.514295208,-58.786048295,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:Jose C. Paz/254-Tr2/254-5525,38,2026-09-06 16:00,2026-09-06,15:57:57
+-34.518359458,-58.787379695,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:Jose C. Paz/254-Tr2/254-5525,1,2026-09-06 16:00,2026-09-06,15:57:57
+-34.517536990,-58.781866117,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:Jose C. Paz/254-Tr2/254-5525,319,2026-09-06 16:00,2026-09-06,15:57:57
+-34.516130109,-58.784572814,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:Jose C. Paz/254-Tr2/254-5525,266,2026-09-06 16:00,2026-09-06,15:57:57
+-34.522405397,-58.781577175,12,media,Edenor,Jose C Paz,Jose C Paz,S/D,R:Jose C. Paz/254-Tr2/254-5525,185,2026-09-06 16:00,2026-09-06,15:57:57
+-34.683730879,-58.654746746,12,media,Edenor,Moron,Castelar,S/D,R:Ituzaingo/264-Tr2/264-5528,110,2026-09-06 16:00,2026-09-06,15:57:57
+-34.686602076,-58.655210243,12,media,Edenor,Moron,Castelar,S/D,R:Ituzaingo/264-Tr2/264-5528,133,2026-09-06 16:00,2026-09-06,15:57:57
+-34.689729266,-58.653255034,12,media,Edenor,Moron,Castelar,S/D,R:Ituzaingo/264-Tr2/264-5528,96,2026-09-06 16:00,2026-09-06,15:57:57
+-34.685881892,-58.650933443,12,media,Edenor,Moron,Castelar,S/D,R:Ituzaingo/264-Tr2/264-5528,384,2026-09-06 16:00,2026-09-06,15:57:57
+-34.682722270,-58.661884303,12,media,Edenor,Moron,Castelar,S/D,R:Ituzaingo/264-Tr2/264-5528,454,2026-09-06 16:00,2026-09-06,15:57:57
+-34.686397642,-58.652609170,12,media,Edenor,Moron,Castelar,S/D,R:Ituzaingo/264-Tr2/264-5528,320,2026-09-06 16:00,2026-09-06,15:57:57
+-34.686059678,-58.658330777,12,media,Edenor,Moron,Castelar,S/D,R:Ituzaingo/264-Tr2/264-5528,535,2026-09-06 16:00,2026-09-06,15:57:57
+-34.684423270,-58.666687840,12,media,Edenor,Moron,Castelar,S/D,R:Ituzaingo/264-Tr2/264-5528,395,2026-09-06 16:00,2026-09-06,15:57:57
+-34.689402546,-58.653346857,12,media,Edenor,Moron,Castelar,S/D,R:Ituzaingo/264-Tr2/264-5528,174,2026-09-06 16:00,2026-09-06,15:57:57
+-34.8925,-58.1807,21,baja,Edesur,Berazategui,Berazategui,,,12,,2026-09-06,15:57:57
+-34.7722,-58.3459,21,baja,Edesur,Almirante Brown,San Jose,,,10,,2026-09-06,15:57:57
+-34.7806,-58.2955,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,21,,2026-09-06,15:57:57
+-34.7312,-58.3496,21,baja,Edesur,Lanus,Monte Chingolo,,,10,,2026-09-06,15:57:57
+-34.6486,-58.4066,21,baja,Edesur,Capital,Nueva Pompeya,,,12,,2026-09-06,15:57:57
+-34.9495,-58.6216,21,baja,Edesur,Cañuelas,Zona Rural,,,49,,2026-09-06,15:57:57
+-34.6402,-58.4813,21,baja,Edesur,Capital,Parque Avellaneda,,,7,,2026-09-06,15:57:57
+-34.6322,-58.3762,21,baja,Edesur,Capital,Barracas,,,12,,2026-09-06,15:57:57
+-34.6123,-58.3793,21,baja,Edesur,Capital,Monserrat,,,3,,2026-09-06,15:57:57
+-34.6729,-58.4072,21,baja,Edesur,Lanus,Valentin Alsina,,,1,,2026-09-06,15:57:57
