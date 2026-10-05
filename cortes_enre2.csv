@@ -157924,3 +157924,53 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.8525,-58.3681,21,baja,Edesur,Almirante Brown,Ministro Rivadavia,,,2,,2026-10-05,09:58:18
 -34.8595,-58.3845,21,baja,Edesur,Almirante Brown,Longchamps,,,5,,2026-10-05,09:58:18
 -34.6348,-58.4831,21,baja,Edesur,Capital,Velez Sarfield,,,11,,2026-10-05,09:58:18
+-34.893081310,-58.576441135,11,media,Edesur,Ezeiza,Tristan Suarez,S/D,R:955-1-05/955-1-05,467,Sin Datos,2026-10-05,19:29:17
+-34.896760780,-58.589176917,11,media,Edesur,Ezeiza,Carlos Spegazzinni,S/D,R:955-1-05/955-1-05,2,Sin Datos,2026-10-05,19:29:17
+-34.891118547,-58.578727010,11,media,Edesur,Ezeiza,Tristan Suarez,S/D,R:955-1-05/955-1-05,260,Sin Datos,2026-10-05,19:29:17
+-34.891489141,-58.572182898,11,media,Edesur,Ezeiza,Tristan Suarez,S/D,R:955-1-05/955-1-05,183,Sin Datos,2026-10-05,19:29:17
+-34.899664890,-58.348733211,11,media,Edesur,Pte Peron,El Roble,Glew,R:277-3-31/277-3-31,7,Sin Datos,2026-10-05,19:29:17
+-34.898313632,-58.345996213,11,media,Edesur,Pte Peron,El Roble,Glew,R:277-3-31/277-3-31,2,Sin Datos,2026-10-05,19:29:17
+-34.906341160,-58.362897225,11,media,Edesur,Pte Peron,La Haya,Glew,R:277-3-31/277-3-31,384,Sin Datos,2026-10-05,19:29:17
+-34.909756689,-58.369714295,11,media,Edesur,Pte Peron,La Haya,Glew,R:277-3-31/277-3-31,368,Sin Datos,2026-10-05,19:29:17
+-34.897680369,-58.341344823,11,media,Edesur,Pte Peron,El Paraiso,Glew,R:277-3-31/277-3-31,36,Sin Datos,2026-10-05,19:29:17
+-34.902401913,-58.354340482,11,media,Edesur,Pte Peron,El Roble,Glew,R:277-3-31/277-3-31,98,Sin Datos,2026-10-05,19:29:17
+-34.904054943,-58.358319298,11,media,Edesur,Pte Peron,La Haya,Glew,R:277-3-31/277-3-31,243,Sin Datos,2026-10-05,19:29:17
+-34.793481586,-58.210093386,11,media,Edesur,Berazategui,Ranelagh,Ezpeleta,R:080-1-11/080-1-11,353,Sin Datos,2026-10-05,19:29:17
+-34.760834263,-58.343049849,11,media,Edesur,Almirante Brown,San Jose,Monte Chingolo,R:184-4-45/184-4-45,110,2026-10-05 18:00,2026-10-05,19:29:17
+-34.933705048,-58.614752438,11,media,Edesur,Cañuelas,Maximo Paz,Spegazzini,R:270-1-11/270-1-11,330,2026-10-05 18:00,2026-10-05,19:29:17
+-34.837663270,-58.471513101,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-3-36/083-3-36,200,2026-10-05 19:00,2026-10-05,19:29:17
+-34.835953275,-58.468141927,11,media,Edesur,Esteban Echeverria,Monte Grande,Echeverria,R:083-3-36/083-3-36,197,2026-10-05 19:00,2026-10-05,19:29:17
+-34.786256436,-58.158894400,11,media,Edesur,Berazategui,Platanos,Rigolleau,R:179-2-28/179-2-28,70,2026-10-05 23:44,2026-10-05,19:29:17
+-34.782912499,-58.154566848,11,media,Edesur,Berazategui,Hudson,Rigolleau,R:179-2-28/179-2-28,1,2026-10-05 23:44,2026-10-05,19:29:17
+-34.784435341,-58.156931088,11,media,Edesur,Berazategui,Platanos,Rigolleau,R:179-2-28/179-2-28,242,2026-10-05 23:44,2026-10-05,19:29:17
+-34.784494558,-58.155655762,11,media,Edesur,Berazategui,Hudson,Rigolleau,R:179-2-28/179-2-28,1,2026-10-05 23:44,2026-10-05,19:29:17
+-34.609270891,-58.416586328,11,media,Edesur,Capital Gp,Almagro,Independencia,R:020-1-17/020-1-17,56,2026-10-05 23:42,2026-10-05,19:29:17
+-34.607124095,-58.418754396,11,media,Edesur,Capital Gp,Almagro,Independencia,R:020-1-17/020-1-17,624,2026-10-05 23:42,2026-10-05,19:29:17
+-34.605918447,-58.416199613,11,media,Edesur,Capital Gp,Almagro,Independencia,R:020-1-17/020-1-17,747,2026-10-05 23:42,2026-10-05,19:29:17
+-34.609292496,-58.416887126,11,media,Edesur,Capital Gp,Almagro,Independencia,R:020-1-17/020-1-17,165,2026-10-05 23:42,2026-10-05,19:29:17
+-34.608280945,-58.418264951,11,media,Edesur,Capital Gp,Almagro,Independencia,R:020-1-17/020-1-17,753,2026-10-05 23:42,2026-10-05,19:29:17
+-34.606771978,-58.416317199,11,media,Edesur,Capital Gp,Almagro,Independencia,R:020-1-17/020-1-17,47,2026-10-05 23:42,2026-10-05,19:29:17
+-34.604673670,-58.421382437,11,media,Edesur,Capital Gp,Almagro,Independencia,R:020-1-17/020-1-17,36,2026-10-05 23:42,2026-10-05,19:29:17
+-34.397575622,-58.842782821,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr2/51-5521,47,2026-10-05 20:00,2026-10-05,19:29:17
+-34.400939816,-58.839431678,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr2/51-5521,2,2026-10-05 20:00,2026-10-05,19:29:17
+-34.396811283,-58.842165528,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr2/51-5521,3,2026-10-05 20:00,2026-10-05,19:29:17
+-34.392481571,-58.841100628,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr2/51-5521,1,2026-10-05 20:00,2026-10-05,19:29:17
+-34.393585608,-58.848222943,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr2/51-5521,172,2026-10-05 20:00,2026-10-05,19:29:17
+-34.382438949,-58.857050825,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr2/51-5521,52,2026-10-05 20:00,2026-10-05,19:29:17
+-34.386424569,-58.853982663,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr2/51-5521,58,2026-10-05 20:00,2026-10-05,19:29:17
+-34.395086493,-58.839048949,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr2/51-5521,111,2026-10-05 20:00,2026-10-05,19:29:17
+-34.399283692,-58.842438965,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr2/51-5521,3,2026-10-05 20:00,2026-10-05,19:29:17
+-34.400919852,-58.841174454,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr2/51-5521,2,2026-10-05 20:00,2026-10-05,19:29:17
+-34.390131004,-58.851196271,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr2/51-5521,99,2026-10-05 20:00,2026-10-05,19:29:17
+-34.390239320,-58.849512868,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr2/51-5521,1,2026-10-05 20:00,2026-10-05,19:29:17
+-34.378364233,-58.858929826,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr2/51-5521,23,2026-10-05 20:00,2026-10-05,19:29:17
+-34.376584933,-58.860291441,12,media,Edenor,Pilar,Villa Rosa,S/D,R:Matheu/51-Tr2/51-5521,22,2026-10-05 20:00,2026-10-05,19:29:17
+-34.6427,-58.4929,21,baja,Edesur,Capital,Villa Luro,,,14,,2026-10-05,19:29:17
+-34.5977,-58.4319,21,baja,Edesur,Capital,Villa Crespo,,,4,,2026-10-05,19:29:17
+-34.6348,-58.4831,21,baja,Edesur,Capital,Velez Sarfield,,,21,,2026-10-05,19:29:17
+-34.6937,-58.4696,21,baja,Edesur,Capital,Villa Riachuelo,,,3,,2026-10-05,19:29:17
+-34.802,-58.23,21,baja,Edesur,Berazategui,Sourigues,,,6,,2026-10-05,19:29:17
+-34.8114,-58.467,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,1,,2026-10-05,19:29:17
+-34.8577,-58.1893,21,baja,Edesur,Florencio Varela,Ing. Allan,,,5,,2026-10-05,19:29:17
+-34.61,-58.4164,21,baja,Edesur,Capital,Almagro,,,17,,2026-10-05,19:29:17
+-34.6732,-58.4064,21,baja,Edesur,Lanus,Valentin Alsina,,,2,,2026-10-05,19:29:17
