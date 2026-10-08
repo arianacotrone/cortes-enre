@@ -158517,3 +158517,61 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.7076,-58.2837,21,baja,Edesur,Quilmes,Bernal,,,24,,2026-10-08,06:58:04
 -34.9154,-58.3651,21,baja,Edesur,Pte Peron,Guernica,,,6,,2026-10-08,06:58:04
 -34.9288,-58.6059,21,baja,Edesur,Ezeiza,Carlos Spegazzinni,,,9,,2026-10-08,06:58:04
+-35.235629745,-58.572564723,11,media,Edesur,Cañuelas,Zona Rural 6,Canuelas,R:271-1-14/271-1-14,1,2026-10-08 17:01,2026-10-08,14:27:51
+-35.258453207,-58.586430907,11,media,Edesur,Cañuelas,Zona Rural 4,Canuelas,R:271-1-14/271-1-14,1,2026-10-08 17:01,2026-10-08,14:27:51
+-35.255493320,-58.576272845,11,media,Edesur,Cañuelas,Zona Rural 4,Canuelas,R:271-1-14/271-1-14,1,2026-10-08 17:01,2026-10-08,14:27:51
+-34.781083808,-58.169286354,11,media,Edesur,Berazategui,Platanos,Rigolleau,R:179-2-27/179-2-27,453,2026-10-08 13:02,2026-10-08,14:27:51
+-34.687222221,-58.372658392,11,media,Edesur,Avellaneda,Gerli A,9 De Julio,R:279-3-36/279-3-36,589,2026-10-08 16:00,2026-10-08,14:27:51
+-34.670150626,-58.381307023,11,media,Edesur,Avellaneda,Avellaneda,9 De Julio,R:279-4-46/279-4-46,85,2026-10-08 12:00,2026-10-08,14:27:51
+-34.730777131,-58.505244975,11,media,Edesur,Esteban Echeverria,9 De Abril,Transradio,R:281-4-41/281-4-41,150,2026-10-08 15:00,2026-10-08,14:27:51
+-34.734324518,-58.501022928,11,media,Edesur,Esteban Echeverria,9 De Abril,Transradio,R:281-4-41/281-4-41,21,2026-10-08 15:00,2026-10-08,14:27:51
+-34.738524817,-58.507076562,11,media,Edesur,Esteban Echeverria,9 De Abril,Transradio,R:281-4-41/281-4-41,210,2026-10-08 15:00,2026-10-08,14:27:51
+-34.736974377,-58.503317761,11,media,Edesur,Esteban Echeverria,9 De Abril,Transradio,R:281-4-41/281-4-41,121,2026-10-08 15:00,2026-10-08,14:27:51
+-34.739295331,-58.503513195,11,media,Edesur,Esteban Echeverria,9 De Abril,Transradio,R:281-4-41/281-4-41,59,2026-10-08 15:00,2026-10-08,14:27:51
+-34.739633427,-58.506905742,11,media,Edesur,Esteban Echeverria,9 De Abril,Transradio,R:281-4-41/281-4-41,59,2026-10-08 15:00,2026-10-08,14:27:51
+-34.738858380,-58.508832119,11,media,Edesur,Esteban Echeverria,9 De Abril,Transradio,R:281-4-41/281-4-41,33,2026-10-08 15:00,2026-10-08,14:27:51
+-34.737938460,-58.511084596,11,media,Edesur,Esteban Echeverria,9 De Abril,Transradio,R:281-4-41/281-4-41,61,2026-10-08 15:00,2026-10-08,14:27:51
+-34.740714961,-58.509768232,11,media,Edesur,Esteban Echeverria,9 De Abril,Transradio,R:281-4-41/281-4-41,27,2026-10-08 15:00,2026-10-08,14:27:51
+-34.740961101,-58.509140527,11,media,Edesur,Esteban Echeverria,9 De Abril,Transradio,R:281-4-41/281-4-41,52,2026-10-08 15:00,2026-10-08,14:27:51
+-34.740111997,-58.510718617,11,media,Edesur,Esteban Echeverria,9 De Abril,Transradio,R:281-4-41/281-4-41,16,2026-10-08 15:00,2026-10-08,14:27:51
+-34.739993867,-58.511545208,11,media,Edesur,Esteban Echeverria,9 De Abril,Transradio,R:281-4-41/281-4-41,58,2026-10-08 15:00,2026-10-08,14:27:51
+-34.882053255,-58.491072538,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-2-21/083-2-21,64,2026-10-08 19:00,2026-10-08,14:27:51
+-34.880092552,-58.487047541,11,media,Edesur,Esteban Echeverria,Canning Ee,Echeverria,R:083-2-21/083-2-21,179,2026-10-08 19:00,2026-10-08,14:27:51
+-34.837050309,-58.236873480,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-1-15/185-1-15,192,2026-10-08 14:15,2026-10-08,14:27:51
+-34.833585792,-58.233084667,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-1-15/185-1-15,15,2026-10-08 14:15,2026-10-08,14:27:51
+-34.833339551,-58.234160901,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-1-15/185-1-15,34,2026-10-08 14:15,2026-10-08,14:27:51
+-34.833987502,-58.233522858,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-1-15/185-1-15,12,2026-10-08 14:15,2026-10-08,14:27:51
+-34.833507883,-58.234857781,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-1-15/185-1-15,19,2026-10-08 14:15,2026-10-08,14:27:51
+-34.834322755,-58.233888560,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-1-15/185-1-15,8,2026-10-08 14:15,2026-10-08,14:27:51
+-34.833971361,-58.235176753,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-1-15/185-1-15,27,2026-10-08 14:15,2026-10-08,14:27:51
+-34.834762887,-58.234368674,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-1-15/185-1-15,16,2026-10-08 14:15,2026-10-08,14:27:51
+-34.834517240,-58.235336885,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-1-15/185-1-15,11,2026-10-08 14:15,2026-10-08,14:27:51
+-34.835055596,-58.235529645,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-1-15/185-1-15,21,2026-10-08 14:15,2026-10-08,14:27:51
+-34.835909945,-58.235618947,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-1-15/185-1-15,12,2026-10-08 14:15,2026-10-08,14:27:51
+-34.835711131,-58.233700603,11,media,Edesur,Florencio Varela,Bosques,Bosques,R:185-1-15/185-1-15,151,2026-10-08 14:15,2026-10-08,14:27:51
+-34.724214020,-58.307072646,11,media,Edesur,Quilmes,Bernal,Monte Chingolo,R:184-2-24/184-2-24,572,2026-10-08 15:00,2026-10-08,14:27:51
+-34.426767131,-58.958000683,12,media,Edenor,Pilar,Fatima,S/D,R:Pilar/158-Tr1/158-5515,4,2026-10-08 13:00,2026-10-08,14:27:51
+-34.586765083,-58.423170482,12,media,Edenor,Capital Federal,Palermo,S/D,R:Guemes/111-Tr2/111-5523,800,2026-10-08 15:00,2026-10-08,14:27:51
+-34.586539591,-58.423163224,12,media,Edenor,Capital Federal,Palermo,S/D,R:Guemes/111-Tr2/111-5523,703,2026-10-08 15:00,2026-10-08,14:27:51
+-34.587773649,-58.422464232,12,media,Edenor,Capital Federal,Palermo,S/D,R:Guemes/111-Tr2/111-5523,466,2026-10-08 15:00,2026-10-08,14:27:51
+-34.588301485,-58.423633474,12,media,Edenor,Capital Federal,Palermo,S/D,R:Guemes/111-Tr2/111-5523,307,2026-10-08 15:00,2026-10-08,14:27:51
+-34.589999364,-58.421241703,12,media,Edenor,Capital Federal,Palermo,S/D,R:Guemes/111-Tr2/111-5523,104,2026-10-08 15:00,2026-10-08,14:27:51
+-34.590563071,-58.420731820,12,media,Edenor,Capital Federal,Palermo,S/D,R:Guemes/111-Tr2/111-5523,330,2026-10-08 15:00,2026-10-08,14:27:51
+-34.587732549,-58.422846105,12,media,Edenor,Capital Federal,Palermo,S/D,R:Guemes/111-Tr2/111-5523,412,2026-10-08 15:00,2026-10-08,14:27:51
+-34.586496139,-58.420833944,12,media,Edenor,Capital Federal,Palermo,S/D,R:Guemes/111-Tr2/111-5523,735,2026-10-08 15:00,2026-10-08,14:27:51
+-34.586773378,-58.423506507,12,media,Edenor,Capital Federal,Palermo,S/D,R:Guemes/111-Tr2/111-5523,251,2026-10-08 15:00,2026-10-08,14:27:51
+-34.588149142,-58.423460721,12,media,Edenor,Capital Federal,Palermo,S/D,R:Guemes/111-Tr2/111-5523,11,2026-10-08 15:00,2026-10-08,14:27:51
+-34.7651,-58.3789,21,baja,Edesur,Lomas De Zamora,Temperley,,,6,,2026-10-08,14:27:51
+-35.3024,-58.5942,21,baja,Edesur,Cañuelas,Udaondo,,,30,,2026-10-08,14:27:51
+-34.6606,-58.4377,21,baja,Edesur,Capital,Villa Soldati,,,3,,2026-10-08,14:27:51
+-34.7076,-58.2837,21,baja,Edesur,Quilmes,Bernal,,,34,,2026-10-08,14:27:51
+-34.9154,-58.3651,21,baja,Edesur,Pte Peron,Guernica,,,7,,2026-10-08,14:27:51
+-34.9288,-58.6059,21,baja,Edesur,Ezeiza,Carlos Spegazzinni,,,10,,2026-10-08,14:27:51
+-34.7757,-58.244,21,baja,Edesur,Berazategui,Berazategui,,,4,,2026-10-08,14:27:51
+-34.915,-58.3597,21,baja,Edesur,Pte Peron,Guernica,,,9,,2026-10-08,14:27:51
+-34.6531,-58.4331,21,baja,Edesur,Capital,Nueva Pompeya,,,17,,2026-10-08,14:27:51
+-34.5942,-58.4435,21,baja,Edesur,Capital,Villa Crespo,,,35,,2026-10-08,14:27:51
+-34.6312,-58.474,21,baja,Edesur,Capital,Floresta,,,8,,2026-10-08,14:27:51
+-34.6658,-58.3636,21,baja,Edesur,Avellaneda,Avellaneda,,,6,,2026-10-08,14:27:51
+-34.7184,-58.3109,21,baja,Edesur,Quilmes,Bernal,,,40,,2026-10-08,14:27:51
+-34.6433,-58.4243,21,baja,Edesur,Capital,Nueva Pompeya,,,5,,2026-10-08,14:27:51
