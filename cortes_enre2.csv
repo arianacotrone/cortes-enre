@@ -160673,3 +160673,73 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.8053,-58.4231,21,baja,Edesur,Lomas De Zamora,Lavallol,,,4,,2026-10-21,08:14:27
 -34.7325,-58.3093,21,baja,Edesur,Quilmes,Bernal,,,13,,2026-10-21,08:14:27
 -34.8048,-58.4561,21,baja,Edesur,Esteban Echeverria,Luis Guillon,,,21,,2026-10-21,08:14:27
+-34.685884746,-58.310255346,11,media,Edesur,Avellaneda,Zona De Reserva,Sarandi,R:172-2-28/172-2-28,325,2026-10-21 13:25,2026-10-21,14:19:12
+-34.838984393,-58.318377954,11,media,Edesur,Almirante Brown,Ministro Rivadavia,Florencio Varela,R:183-2-22/183-2-22,4,2026-10-21 13:59,2026-10-21,14:19:12
+-34.822445703,-58.289886561,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-22/183-2-22,15,2026-10-21 13:59,2026-10-21,14:19:12
+-34.820456904,-58.291408584,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-22/183-2-22,2,2026-10-21 13:59,2026-10-21,14:19:12
+-34.832089383,-58.305213496,11,media,Edesur,S/D,S/D,Florencio Varela,R:183-2-22/183-2-22,2,2026-10-21 13:59,2026-10-21,14:19:12
+-34.822259603,-58.285323436,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-22/183-2-22,57,2026-10-21 13:59,2026-10-21,14:19:12
+-34.833520719,-58.306963831,11,media,Edesur,S/D,S/D,Florencio Varela,R:183-2-22/183-2-22,2,2026-10-21 13:59,2026-10-21,14:19:12
+-34.831569668,-58.304210237,11,media,Edesur,S/D,S/D,Florencio Varela,R:183-2-22/183-2-22,2,2026-10-21 13:59,2026-10-21,14:19:12
+-34.821719609,-58.290426573,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-22/183-2-22,6,2026-10-21 13:59,2026-10-21,14:19:12
+-34.826020349,-58.289943652,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-22/183-2-22,299,2026-10-21 13:59,2026-10-21,14:19:12
+-34.827541103,-58.289154891,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-22/183-2-22,190,2026-10-21 13:59,2026-10-21,14:19:12
+-34.823887250,-58.285307155,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-22/183-2-22,282,2026-10-21 13:59,2026-10-21,14:19:12
+-34.828462959,-58.290885132,11,media,Edesur,Florencio Varela,Florencio Varela,Florencio Varela,R:183-2-22/183-2-22,1,2026-10-21 13:59,2026-10-21,14:19:12
+-34.598309277,-58.427217174,11,media,Edesur,Capital Gp,Almagro,Parque Centenario,R:049-1-13/049-1-13,214,2026-10-21 13:34,2026-10-21,14:19:12
+-34.659330182,-58.788175996,12,media,Edenor,Moreno,Paso Del Rey,S/D,R:Paso Del Rey/258-Tr2/258-5536,71,Sin Datos,2026-10-21,14:19:12
+-34.657179369,-58.778049394,12,media,Edenor,Moreno,Moreno,S/D,R:Paso Del Rey/258-Tr2/258-5536,230,Sin Datos,2026-10-21,14:19:12
+-34.655086983,-58.789034314,12,media,Edenor,Moreno,Moreno,S/D,R:Paso Del Rey/258-Tr2/258-5536,168,Sin Datos,2026-10-21,14:19:12
+-34.656264269,-58.785832338,12,media,Edenor,Moreno,Moreno,S/D,R:Paso Del Rey/258-Tr2/258-5536,84,Sin Datos,2026-10-21,14:19:12
+-34.655938137,-58.782204786,12,media,Edenor,Moreno,Moreno,S/D,R:Paso Del Rey/258-Tr2/258-5536,251,Sin Datos,2026-10-21,14:19:12
+-34.658321100,-58.773783965,12,media,Edenor,Moreno,Moreno,S/D,R:Paso Del Rey/258-Tr2/258-5536,393,Sin Datos,2026-10-21,14:19:12
+-34.661854317,-58.789227014,12,media,Edenor,Moreno,Moreno,S/D,R:Paso Del Rey/258-Tr2/258-5536,310,Sin Datos,2026-10-21,14:19:12
+-34.659522523,-58.786998840,12,media,Edenor,Moreno,Moreno,S/D,R:Paso Del Rey/258-Tr2/258-5536,301,Sin Datos,2026-10-21,14:19:12
+-34.659750024,-58.780320009,12,media,Edenor,Moreno,Moreno,S/D,R:Paso Del Rey/258-Tr2/258-5536,339,Sin Datos,2026-10-21,14:19:12
+-34.661966817,-58.769046518,12,media,Edenor,Moreno,Paso Del Rey,S/D,R:Paso Del Rey/258-Tr2/258-5536,202,Sin Datos,2026-10-21,14:19:12
+-34.657610950,-58.786613950,12,media,Edenor,Moreno,Moreno,S/D,R:Paso Del Rey/258-Tr2/258-5536,145,Sin Datos,2026-10-21,14:19:12
+-34.658359281,-58.783815125,12,media,Edenor,Moreno,Moreno,S/D,R:Paso Del Rey/258-Tr2/258-5536,164,Sin Datos,2026-10-21,14:19:12
+-34.657880710,-58.785105084,12,media,Edenor,Moreno,Moreno,S/D,R:Paso Del Rey/258-Tr2/258-5536,16,Sin Datos,2026-10-21,14:19:12
+-34.657732628,-58.775794816,12,media,Edenor,Moreno,Moreno,S/D,R:Paso Del Rey/258-Tr2/258-5536,146,Sin Datos,2026-10-21,14:19:12
+-34.660570640,-58.770364436,12,media,Edenor,Moreno,Paso Del Rey,S/D,R:Paso Del Rey/258-Tr2/258-5536,165,Sin Datos,2026-10-21,14:19:12
+-34.664061241,-58.787827481,12,media,Edenor,Moreno,Moreno,S/D,R:Paso Del Rey/258-Tr2/258-5536,176,Sin Datos,2026-10-21,14:19:12
+-34.660339727,-58.784356265,12,media,Edenor,Moreno,Moreno,S/D,R:Paso Del Rey/258-Tr2/258-5536,170,Sin Datos,2026-10-21,14:19:12
+-34.727985142,-58.642817140,12,media,Edenor,La Matanza,Rafael Castillo,S/D,R:Pantanosa/365-Tr1/365-5512,29,Sin Datos,2026-10-21,14:19:12
+-34.823624707,-59.102313962,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,Sin Datos,2026-10-21,14:19:12
+-34.831460586,-59.111821555,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,2,Sin Datos,2026-10-21,14:19:12
+-34.830155214,-59.124368219,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,Sin Datos,2026-10-21,14:19:12
+-34.826718737,-59.129300781,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,Sin Datos,2026-10-21,14:19:12
+-34.823709659,-59.133566926,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,Sin Datos,2026-10-21,14:19:12
+-34.823890232,-59.138896977,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,2,Sin Datos,2026-10-21,14:19:12
+-34.828160439,-59.127203458,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,Sin Datos,2026-10-21,14:19:12
+-34.819301405,-59.120789129,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,Sin Datos,2026-10-21,14:19:12
+-34.832014082,-59.121622094,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,Sin Datos,2026-10-21,14:19:12
+-34.824969816,-59.137690445,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,Sin Datos,2026-10-21,14:19:12
+-34.837996408,-59.119898992,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,Sin Datos,2026-10-21,14:19:12
+-34.829250172,-59.077808573,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2026-10-21 14:00,2026-10-21,14:19:12
+-34.819500198,-59.092503883,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,3,2026-10-21 14:00,2026-10-21,14:19:12
+-34.808892092,-59.091659069,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2026-10-21 14:00,2026-10-21,14:19:12
+-34.799480388,-59.105710531,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2026-10-21 14:00,2026-10-21,14:19:12
+-34.796885170,-59.099991845,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2026-10-21 14:00,2026-10-21,14:19:12
+-34.796366609,-59.116819813,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2026-10-21 14:00,2026-10-21,14:19:12
+-34.804169341,-59.115901662,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2026-10-21 14:00,2026-10-21,14:19:12
+-34.846018871,-59.055660346,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,4,2026-10-21 14:00,2026-10-21,14:19:12
+-34.831788163,-59.064367097,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,2,2026-10-21 14:00,2026-10-21,14:19:12
+-34.813030607,-59.084027476,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,2,2026-10-21 14:00,2026-10-21,14:19:12
+-34.809503553,-59.074290465,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2026-10-21 14:00,2026-10-21,14:19:12
+-34.795025334,-59.126449220,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2026-10-21 14:00,2026-10-21,14:19:12
+-34.832207042,-59.073610124,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,2,2026-10-21 14:00,2026-10-21,14:19:12
+-34.809142472,-59.112323547,12,media,Edenor,Gral Las Heras,Gral Las Heras,S/D,R:Marcos Paz/363-Tr4/363-5481/132-5511,1,2026-10-21 14:00,2026-10-21,14:19:12
+-34.356327176,-58.574085765,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,39,Sin Datos,2026-10-21,14:19:12
+-34.500603472,-58.868907958,12,media,Edenor,Pilar,Villa Astolfi,S/D,R:Manzone/257-Tr2/257-5524,1,2026-10-21 12:00,2026-10-21,14:19:12
+-34.573473231,-58.938811635,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr2/169-5542,4,2026-10-21 13:00,2026-10-21,14:19:12
+-34.464705805,-58.879170718,12,media,Edenor,Pilar,Pilar,S/D,R:Derqui/260-Tr2/260-5526,40,Sin Datos,2026-10-21,14:19:12
+-34.467523125,-58.876833250,12,media,Edenor,Pilar,Pilar,S/D,R:Derqui/260-Tr2/260-5526,60,Sin Datos,2026-10-21,14:19:12
+-34.581883280,-58.408999167,12,media,Edenor,Capital Federal,Palermo,S/D,R:Melo/237-Tr2/237-5535,123,2026-10-21 14:00,2026-10-21,14:19:12
+-34.7974,-58.2569,21,baja,Edesur,Florencio Varela,Florencio Varela,,,15,,2026-10-21,14:19:12
+-34.9338,-58.3934,21,baja,Edesur,Pte Peron,Guernica,,,20,,2026-10-21,14:19:12
+-34.6205,-58.5165,21,baja,Edesur,Capital,Capital,,,3,,2026-10-21,14:19:12
+-34.6221,-58.4928,21,baja,Edesur,Capital,Floresta,,,5,,2026-10-21,14:19:12
+-34.6505,-58.4729,21,baja,Edesur,Capital,Parque Avellaneda,,,1,,2026-10-21,14:19:12
+-34.5995,-58.4037,21,baja,Edesur,Capital,Capital Rp,,,3,,2026-10-21,14:19:12
+-34.6558,-58.4004,21,baja,Edesur,Capital,Nueva Pompeya,,,1,,2026-10-21,14:19:12
