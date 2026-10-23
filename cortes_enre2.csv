@@ -161212,3 +161212,41 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6029,-58.4383,21,baja,Edesur,Capital,Villa Crespo,,,36,,2026-10-23,08:13:18
 -34.6996,-58.3505,21,baja,Edesur,Avellaneda,Villa Dominico,,,7,,2026-10-23,08:13:18
 -34.6445,-58.5139,21,baja,Edesur,Capital,Liniers,,,23,,2026-10-23,08:13:18
+-34.676039135,-58.456618127,11,media,Edesur,Capital Gp,Villa Lugano,Autodromo,R:042-1-12/042-1-12/042-2-28,100,Sin Datos,2026-10-23,18:52:18
+-34.787118277,-58.230340679,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-2-21/080-2-21,193,Sin Datos,2026-10-23,18:52:18
+-34.787950058,-58.231897422,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-2-21/080-2-21,36,Sin Datos,2026-10-23,18:52:18
+-34.788446030,-58.230957809,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-2-21/080-2-21,12,Sin Datos,2026-10-23,18:52:18
+-34.789397548,-58.230539468,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-2-21/080-2-21,4,Sin Datos,2026-10-23,18:52:18
+-34.789636264,-58.230991497,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-2-21/080-2-21,4,Sin Datos,2026-10-23,18:52:18
+-34.788999924,-58.231787942,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-2-21/080-2-21,25,Sin Datos,2026-10-23,18:52:18
+-34.789159647,-58.232097205,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-2-21/080-2-21,10,Sin Datos,2026-10-23,18:52:18
+-34.789916230,-58.231512284,11,media,Edesur,Berazategui,Berazategui Centro,Ezpeleta,R:080-2-21/080-2-21,11,Sin Datos,2026-10-23,18:52:18
+-35.034879434,-58.406399049,11,media,Edesur,San Vicente,San Vicente,S/D,R:956-1-01/956-1-01,4,Sin Datos,2026-10-23,18:52:18
+-35.033709229,-58.407436958,11,media,Edesur,San Vicente,San Vicente,S/D,R:956-1-01/956-1-01,422,Sin Datos,2026-10-23,18:52:18
+-35.036095500,-58.405326441,11,media,Edesur,San Vicente,San Vicente,S/D,R:956-1-01/956-1-01,388,Sin Datos,2026-10-23,18:52:18
+-34.800161944,-58.255515330,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-2-25/080-2-25,806,2026-10-23 19:07,2026-10-23,18:52:18
+-34.796475198,-58.250564882,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-2-25/080-2-25,484,2026-10-23 19:07,2026-10-23,18:52:18
+-34.797798022,-58.246344410,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-2-25/080-2-25,213,2026-10-23 19:07,2026-10-23,18:52:18
+-34.796390700,-58.248120814,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-2-25/080-2-25,64,2026-10-23 19:07,2026-10-23,18:52:18
+-34.793740430,-58.249285543,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-2-25/080-2-25,6,2026-10-23 19:07,2026-10-23,18:52:18
+-34.798898989,-58.248413397,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-2-25/080-2-25,19,2026-10-23 19:07,2026-10-23,18:52:18
+-34.799800875,-58.250177847,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-2-25/080-2-25,29,2026-10-23 19:07,2026-10-23,18:52:18
+-34.793764438,-58.250471908,11,media,Edesur,Florencio Varela,Florencio Varela,Ezpeleta,R:080-2-25/080-2-25,221,2026-10-23 19:07,2026-10-23,18:52:18
+-34.407581252,-58.968277312,12,media,Edenor,Pilar,Fatima,S/D,R:Pilar/158-Tr4/158-5472,1,2026-10-23 18:00,2026-10-23,18:52:18
+-34.410849731,-58.600623643,12,media,Edenor,Tigre,Rincon De Milberg,S/D,R:Nordelta/156-Tr1/156-5544,154,2026-10-23 18:00,2026-10-23,18:52:18
+-34.408900731,-58.601929811,12,media,Edenor,Tigre,Rincon De Milberg,S/D,R:Nordelta/156-Tr1/156-5544,231,2026-10-23 18:00,2026-10-23,18:52:18
+-34.411350332,-58.600846442,12,media,Edenor,Tigre,Rincon De Milberg,S/D,R:Nordelta/156-Tr1/156-5544,345,2026-10-23 18:00,2026-10-23,18:52:18
+-34.412949849,-58.599107215,12,media,Edenor,Tigre,Rincon De Milberg,S/D,R:Nordelta/156-Tr1/156-5544,437,2026-10-23 18:00,2026-10-23,18:52:18
+-34.412873416,-58.601966998,12,media,Edenor,Tigre,Rincon De Milberg,S/D,R:Nordelta/156-Tr1/156-5544,346,2026-10-23 18:00,2026-10-23,18:52:18
+-34.4254,-58.5741,22,baja,Edenor,Tigre,Ciudad De Tigre,,,18,,2026-10-23,18:52:18
+-34.5939,-58.3928,21,baja,Edesur,Capital,Recoleta,,,6,,2026-10-23,18:52:18
+-34.8373,-58.1791,21,baja,Edesur,Berazategui,Berazategui,,,5,,2026-10-23,18:52:18
+-34.7688,-58.2946,21,baja,Edesur,Quilmes,San Francisco Solano (Q),,,6,,2026-10-23,18:52:18
+-34.8722,-58.5301,21,baja,Edesur,Ezeiza,Barrio La Union,,,6,,2026-10-23,18:52:18
+-34.6065,-58.3888,21,baja,Edesur,Capital,San Nicolas,,,5,,2026-10-23,18:52:18
+-34.6996,-58.3505,21,baja,Edesur,Avellaneda,Villa Dominico,,,14,,2026-10-23,18:52:18
+-34.6367,-58.4273,21,baja,Edesur,Capital,Parque Chacabuco,,,6,,2026-10-23,18:52:18
+-34.8266,-58.4781,21,baja,Edesur,Esteban Echeverria,Monte Grande,,,7,,2026-10-23,18:52:18
+-34.9262,-58.3886,21,baja,Edesur,Pte Peron,Guernica,,,5,,2026-10-23,18:52:18
+-34.8197,-58.4102,21,baja,Edesur,Almirante Brown,Burzaco,,,23,,2026-10-23,18:52:18
+-34.6326,-58.3996,21,baja,Edesur,Capital,Parque Patricios,,,58,,2026-10-23,18:52:18
