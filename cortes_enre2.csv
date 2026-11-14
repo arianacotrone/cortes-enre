@@ -164899,3 +164899,44 @@ latitud,longitud,nn,tipo,empresa,partido,localidad,subestacion,alimentador,afect
 -34.6558,-58.4004,21,baja,Edesur,Capital,Nueva Pompeya,,,1,,2026-11-14,02:53:06
 -34.6539,-58.4191,21,baja,Edesur,Capital,Nueva Pompeya,,,1,,2026-11-14,02:53:06
 -34.6934,-58.3832,21,baja,Edesur,Lanus,Gerli,,,20,,2026-11-14,02:53:06
+-34.724018306,-58.396019102,11,media,Edesur,Lanus,Remedios De Escalada,Heroes De Malvinas,R:076-2-24/076-2-24,272,Sin Datos,2026-11-14,09:47:01
+-34.726501782,-58.396562303,11,media,Edesur,Lanus,Remedios De Escalada,Escalada,R:087-2-2122/087-2-2122,460,Sin Datos,2026-11-14,09:47:01
+-34.725049409,-58.397312964,11,media,Edesur,Lanus,Remedios De Escalada,Escalada,R:087-2-2122/087-2-2122,58,Sin Datos,2026-11-14,09:47:01
+-34.410269112,-58.588413452,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,6,Sin Datos,2026-11-14,09:47:01
+-34.407300011,-58.591858933,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,6,Sin Datos,2026-11-14,09:47:01
+-34.408104427,-58.591210805,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,1,Sin Datos,2026-11-14,09:47:01
+-34.387679561,-58.593896707,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,1,Sin Datos,2026-11-14,09:47:01
+-34.406004917,-58.592668783,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,12,Sin Datos,2026-11-14,09:47:01
+-34.389982704,-58.593128206,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,57,Sin Datos,2026-11-14,09:47:01
+-34.399180290,-58.592102821,12,media,Edenor,Tigre,Delta 1Ra Seccion (Ti),S/D,R:Tigre/153-Tr2/153-5526,65,Sin Datos,2026-11-14,09:47:01
+-34.480864304,-58.746092546,12,media,Edenor,Malvinas Argentinas,Tierras Altas,S/D,R:Tortuguitas/252-Tr2/252-5524,187,2026-11-14 10:00,2026-11-14,09:47:01
+-34.482800336,-58.739489759,12,media,Edenor,Malvinas Argentinas,Grand Bourg,S/D,R:Tortuguitas/252-Tr2/252-5524,151,2026-11-14 10:00,2026-11-14,09:47:01
+-34.482128770,-58.743694977,12,media,Edenor,Malvinas Argentinas,Tierras Altas,S/D,R:Tortuguitas/252-Tr2/252-5524,256,2026-11-14 10:00,2026-11-14,09:47:01
+-34.485041549,-58.736947070,12,media,Edenor,Malvinas Argentinas,Tierras Altas,S/D,R:Tortuguitas/252-Tr2/252-5524,299,2026-11-14 10:00,2026-11-14,09:47:01
+-34.486442548,-58.739584406,12,media,Edenor,Malvinas Argentinas,Tierras Altas,S/D,R:Tortuguitas/252-Tr2/252-5524,396,2026-11-14 10:00,2026-11-14,09:47:01
+-34.483728513,-58.740220198,12,media,Edenor,Malvinas Argentinas,Tierras Altas,S/D,R:Tortuguitas/252-Tr2/252-5524,81,2026-11-14 10:00,2026-11-14,09:47:01
+-34.614850106,-58.934401637,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr5/169-5486/255-5514,216,2026-11-14 10:00,2026-11-14,09:47:01
+-34.611836814,-58.945320156,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr5/169-5486/255-5514,316,2026-11-14 10:00,2026-11-14,09:47:01
+-34.619778815,-58.912148963,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr5/169-5486/255-5514,29,2026-11-14 10:00,2026-11-14,09:47:01
+-34.616142441,-58.928764085,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr5/169-5486/255-5514,77,2026-11-14 10:00,2026-11-14,09:47:01
+-34.617959571,-58.921061039,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr5/169-5486/255-5514,273,2026-11-14 10:00,2026-11-14,09:47:01
+-34.619533734,-58.914433743,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr5/169-5486/255-5514,141,2026-11-14 10:00,2026-11-14,09:47:01
+-34.616950007,-58.925316907,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr5/169-5486/255-5514,105,2026-11-14 10:00,2026-11-14,09:47:01
+-34.618812081,-58.917487267,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr5/169-5486/255-5514,54,2026-11-14 10:00,2026-11-14,09:47:01
+-34.619909370,-58.911952053,12,media,Edenor,Gral Rodriguez,Gral Rodriguez,S/D,R:Malvinas/169-Tr5/169-5486/255-5514,1,2026-11-14 10:00,2026-11-14,09:47:01
+-34.610215536,-58.869277853,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr1/263-5516,13,2026-11-14 10:00,2026-11-14,09:47:01
+-34.615668325,-58.852056570,12,media,Edenor,Moreno,La Reja,S/D,R:Gaona/263-Tr1/263-5516,111,2026-11-14 10:00,2026-11-14,09:47:01
+-34.612866536,-58.857399376,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr1/263-5516,69,2026-11-14 10:00,2026-11-14,09:47:01
+-34.613460873,-58.859663062,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr1/263-5516,19,2026-11-14 10:00,2026-11-14,09:47:01
+-34.608505592,-58.859491007,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr1/263-5516,23,2026-11-14 10:00,2026-11-14,09:47:01
+-34.613493022,-58.855275617,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr1/263-5516,32,2026-11-14 10:00,2026-11-14,09:47:01
+-34.611872521,-58.864708943,12,media,Edenor,Moreno,Francisco Alvarez,S/D,R:Gaona/263-Tr1/263-5516,85,2026-11-14 10:00,2026-11-14,09:47:01
+-34.9372,-58.4775,21,baja,Edesur,Pte Peron,Zona Rural,,,18,,2026-11-14,09:47:01
+-34.8288,-58.3565,21,baja,Edesur,Almirante Brown,Burzaco,,,58,,2026-11-14,09:47:01
+-34.5898,-58.3991,21,baja,Edesur,Capital,Recoleta,,,15,,2026-11-14,09:47:01
+-34.6454,-58.4125,21,baja,Edesur,Capital,Parque Patricios,,,2,,2026-11-14,09:47:01
+-34.5965,-58.3809,21,baja,Edesur,Capital,Retiro,,,9,,2026-11-14,09:47:01
+-34.6558,-58.4004,21,baja,Edesur,Capital,Nueva Pompeya,,,1,,2026-11-14,09:47:01
+-34.6539,-58.4191,21,baja,Edesur,Capital,Nueva Pompeya,,,1,,2026-11-14,09:47:01
+-34.6934,-58.3832,21,baja,Edesur,Lanus,Gerli,,,20,,2026-11-14,09:47:01
+-34.6829,-58.3681,21,baja,Edesur,Avellaneda,Avellaneda,,,10,,2026-11-14,09:47:01
